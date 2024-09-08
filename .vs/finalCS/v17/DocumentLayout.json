@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\finalCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\transactionrecordingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\transactionrecordingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\transactionrecordingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\transactionrecordingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\inventorystatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\inventorystatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\inventorystatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\inventorystatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\customermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\customermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\customermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\customermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|c:\\users\\dell\\source\\repos\\finalcs\\finalcs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19067D7C-F057-41A0-9107-D7E2EA5DAA57}|finalCS\\finalCS.csproj|solutionrelative:finalcs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "finalCS\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\MyDbContext.cs",
+              "RelativeToolTip": "finalCS\\MyDbContext.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAuwIcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:12:30.8Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\Program.cs",
+              "RelativeDocumentMoniker": "finalCS\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\Program.cs",
+              "RelativeToolTip": "finalCS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:35:29.987Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "finalCS\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\ITransactionRepository.cs",
+              "RelativeToolTip": "finalCS\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:03:15.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "finalCS\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\IProductRepository.cs",
+              "RelativeToolTip": "finalCS\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:02:29.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionRecordingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\TransactionRecordingForm.cs",
+              "RelativeDocumentMoniker": "finalCS\\TransactionRecordingForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\TransactionRecordingForm.cs [Design]",
+              "RelativeToolTip": "finalCS\\TransactionRecordingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:00:52.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryStatusForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\InventoryStatusForm.cs",
+              "RelativeDocumentMoniker": "finalCS\\InventoryStatusForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\InventoryStatusForm.cs [Design]",
+              "RelativeToolTip": "finalCS\\InventoryStatusForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:42:24.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionRecordingForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\TransactionRecordingForm.cs",
+              "RelativeDocumentMoniker": "finalCS\\TransactionRecordingForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\TransactionRecordingForm.cs",
+              "RelativeToolTip": "finalCS\\TransactionRecordingForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:44:55.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\ProductManagementForm.cs",
+              "RelativeDocumentMoniker": "finalCS\\ProductManagementForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\ProductManagementForm.cs",
+              "RelativeToolTip": "finalCS\\ProductManagementForm.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:16:25.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryStatusForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\InventoryStatusForm.cs",
+              "RelativeDocumentMoniker": "finalCS\\InventoryStatusForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\InventoryStatusForm.cs",
+              "RelativeToolTip": "finalCS\\InventoryStatusForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:41:25.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\ProductManagementForm.cs",
+              "RelativeDocumentMoniker": "finalCS\\ProductManagementForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\ProductManagementForm.cs [Design]",
+              "RelativeToolTip": "finalCS\\ProductManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:18:14.795Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "finalCS\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\ReportsForm.cs",
+              "RelativeToolTip": "finalCS\\ReportsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:58:08.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\Form1.cs",
+              "RelativeDocumentMoniker": "finalCS\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\Form1.cs",
+              "RelativeToolTip": "finalCS\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T22:57:35.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\CustomerManagementForm.cs",
+              "RelativeDocumentMoniker": "finalCS\\CustomerManagementForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\CustomerManagementForm.cs",
+              "RelativeToolTip": "finalCS\\CustomerManagementForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:27:45.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\CustomerManagementForm.cs",
+              "RelativeDocumentMoniker": "finalCS\\CustomerManagementForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\CustomerManagementForm.cs [Design]",
+              "RelativeToolTip": "finalCS\\CustomerManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:27:35.914Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\Form1.cs",
+              "RelativeDocumentMoniker": "finalCS\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\Form1.cs [Design]",
+              "RelativeToolTip": "finalCS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:11:25.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "finalCS\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\finalCS\\finalCS\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "finalCS\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:58:03.809Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
